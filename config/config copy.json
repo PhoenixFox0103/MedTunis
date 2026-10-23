@@ -1,0 +1,12 @@
+{
+  "supabaseUrl": "https://dhfqyhirogvaruvmibqo.supabase.co",
+  "supabaseAnonKey": "sb_publishable_ygDS7SslKMev6iWDugGiWQ_Rv5u-C54",
+  "appName": "MediLink TN",
+  "map": {
+    "defaultLat": 36.8065,
+    "defaultLng": 10.1815,
+    "defaultZoom": 11
+  },
+  "authRedirectUrl": "https://confirmation-gilt-seven.vercel.app/",
+  "searchRadiusKm": 10
+}
